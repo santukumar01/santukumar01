@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is Santu Kumar and I'm a , from ....</h2>
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=santukumar01.santukumar01" />
 ###
 
 <div align="center">
