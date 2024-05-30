@@ -33,14 +33,15 @@
  <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
 <div align="center">
     <h3>Programming Languages:</h3>
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp" />
 </div>
 
 <div align="center">
     <h3>Frontend Frameworks/Libraries:</h3>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,mui" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,mui,javascript,html,css" />
 </div>
 
 <div align="center">
