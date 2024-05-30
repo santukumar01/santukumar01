@@ -67,6 +67,6 @@
 
 
 <br clear="both">
-![Snake SVG](https://raw.githubusercontent.com/santukumar01/santukumar01/output/snake.svg)
+<img src="https://raw.githubusercontent.com/santukumar01/santukumar01/output/snake.svg" alt="Snake animation" />
 
 ###
