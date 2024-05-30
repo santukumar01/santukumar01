@@ -22,10 +22,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: santukumar01
-            outputs: dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#f0f5ff,#c9dcff,#a5cfff,#7db3ff,#5c9fff
-
-
-            
+          outputs: dist/snake.svg?palette=github-light
 
 
       - name: push snake.svg to the output branch
