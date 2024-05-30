@@ -30,18 +30,9 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
-
-<br/>
  <hr/>
 
-
-###
-
-
-###
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
     <h3>Programming Languages:</h3>
     <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css" />
@@ -70,11 +61,14 @@
 <hr/>
 
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santukumar01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
